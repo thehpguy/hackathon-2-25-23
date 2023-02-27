@@ -1,0 +1,7 @@
+apple|la manzana
+four|cuatro
+white|blanco
+to go|ir
+water|el agua
+happy|contento
+to read|leer
